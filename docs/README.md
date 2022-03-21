@@ -1,10 +1,8 @@
 ---
 home: true
 heroImage: /spider.png
-heroText: 我的主页
-tagline: My homepage
-actionText: 技术文档 →
-actionLink: /tech/interview/
+actionText: 开始探索 →
+actionLink: /ready/guide/
 features:
 - title: 生活
   details: 记录点点滴滴
@@ -12,6 +10,6 @@ features:
   details: 享受coding
 - title: 沉淀
   details: 不积跬步，无以至千里
-footer: 码上小强的个人博客
+footer: MIT Licensed | Copyright © 2022-present 码上小强
 ---
 
