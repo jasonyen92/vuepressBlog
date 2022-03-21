@@ -16,10 +16,9 @@ module.exports = {
       { text: 'github', link: 'https://github.com/jasonyen92' }
     ],
     sidebar: {  //侧边拦
-            '/2020/': [
+            '/2022/': [
                 ['/mybatis/', '']
+                ]
         }
-    sidebar: 'auto', // 侧边栏配置
-    sidebarDepth: 2, // 侧边栏显示2级
   }
-};
+}
