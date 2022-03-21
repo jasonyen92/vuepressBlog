@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /spider.png
+heroImage: /bar.jpeg
 actionText: 开始探索 →
 actionLink: /ready/guide/
 features:
