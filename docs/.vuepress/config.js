@@ -1,6 +1,7 @@
 module.exports = {
   title: '码上小强',  // 标题
-  keywords: 'java',
+  theme: 'vuepress-theme-default',
+  keywords: 'java,随笔',
   description: '梦开始的地方😄',
   head: [ // 注入到当前页面的 HTML <head> 中的标签
     ['link', { rel: 'icon', href: '/logo.png' }], // 增加一个自定义的 favicon(网页标签的图标)
