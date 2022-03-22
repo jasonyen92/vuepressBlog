@@ -2,7 +2,7 @@
 home: true
 heroImage: /bar.jpeg
 actionText: 开始探索 →
-actionLink: /ready/guide/
+actionLink: /vuepress/搭建博客一/
 features:
 - title: 生活
   details: 记录点点滴滴

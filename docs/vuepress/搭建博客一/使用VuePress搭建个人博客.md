@@ -87,7 +87,7 @@ module.exports = {
 }
 ```
 
-> 注意：文档的根目录为docs目录，图片根目录为public目录
+> 注意：文档的根目录为docs目录且需要有一个README.md文件，图片根目录为public目录
 
 **在package.json文件里添加三个启动命令**
 
@@ -136,7 +136,7 @@ npm run dev
 
 点击右上角头像会显示你的username是什么，如图：
 
-![1.png](/vuepress/pics/1.png)
+![1.png](https://github.com/jasonyen92/pics/blob/main/1.png)
 
 **新建仓库二：vuepressBlog**
 
@@ -172,3 +172,4 @@ cd -
 ```
 
 然后在目录下执行命令`npm run deploy`，当成功后，打开你的username.github.io（username为你的github用户名）查看
+

@@ -21,25 +21,22 @@ module.exports = {
              '/mybatis/': [
                 {
                     title: 'mybatis',
-                    collapsable: false,
                     children: [
-                        {title: 'mybatis基础', path: '/mybatis/mybatis基础/'}
+                        {title: 'mybatis基础', path: '/mybatis/mybatis基础/使用VuePress搭建个人博客'}
                         
                     ]
                 },
                 {
                     title: '手撸mybatis',
-                    collapsable: false,
                     children: [
-                        {title: '手撸mybatis', path: '/mybatis/手撸mybatis/'},
+                        {title: '手撸mybatis', path: '/mybatis/手撸mybatis/使用VuePress搭建个人博客'},
                     ]
                 }
             ],
             '/vuepress/': [{
                 title: '手把手教你搭建博客',
-                collapsable: false,
                 children: [
-                    {title: '手把手教你搭建博客', path: '/vuepress/搭建博客一'},
+                    {title: '手把手教你搭建博客', path: '/vuepress/搭建博客一/使用VuePress搭建个人博客'},
                 ]
             }]
       }
